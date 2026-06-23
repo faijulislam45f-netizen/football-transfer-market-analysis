@@ -7,8 +7,8 @@ Exploratory Data Analysis (EDA) on football player transfer market dynamics usin
 | :--- | :--- |
 | **Source** | Kaggle — Global Football Transfer Market 2010-2026 |
 | **File** | `transfers_history.csv` |
-| **Rows** | [Add total rows here] |
-| **Columns** | [Add total columns here] |
+| **Rows** | [Total 14991] |
+| **Columns** | [total 9] |
 
 **Columns:** `to_league`, `player_name`, `fee_eur_m`, `age`, `position`.
 
